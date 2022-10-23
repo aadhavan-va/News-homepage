@@ -2,7 +2,7 @@
 
 The News Page web app is designed using HTML, CSS and Javascript. It covers all device layouts made responsive using Media queries.
 
-Link : https://aadhavan-va.github.io/Interactive-comments-section/
+Link : https://aadhavan-va.github.io/News-homepage/
 
 ### Mobile Layout ✨
 
